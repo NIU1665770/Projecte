@@ -1,1 +1,2 @@
 Fitxer README
+Canvi
